@@ -40,7 +40,7 @@ func main() {
 // * p - PAPER
 // Return -1 for non-valid string
 func Convert(s string) int{
-	return 0
+	return 1
 }
 
 // Takes two turns and returns
